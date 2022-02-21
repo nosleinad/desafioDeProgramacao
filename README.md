@@ -9,6 +9,7 @@
 
 `JAVASCRIPT`
 `JAVA`
+`HTML`
 
 ### Questão 01
 
